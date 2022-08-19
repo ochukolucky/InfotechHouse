@@ -1,0 +1,15 @@
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.csproj.AssemblyReference.cache
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.AssemblyInfoInputs.cache
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.AssemblyInfo.cs
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.csproj.CoreCompileInputs.cache
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\bin\Debug\net6.0\InfoTech_House.exe
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\bin\Debug\net6.0\InfoTech_House.deps.json
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\bin\Debug\net6.0\InfoTech_House.runtimeconfig.json
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\bin\Debug\net6.0\InfoTech_House.dll
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\bin\Debug\net6.0\InfoTech_House.pdb
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.dll
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\refint\InfoTech_House.dll
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.pdb
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\InfoTech_House.genruntimeconfig.cache
+C:\Users\okorodiden.lucky\source\repos\InfoTech_House\InfoTech_House\obj\Debug\net6.0\ref\InfoTech_House.dll
